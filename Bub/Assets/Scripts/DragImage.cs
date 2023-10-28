@@ -46,7 +46,7 @@ public class DragImage : MonoBehaviour
 
         if (isDragActive)
         {
-            Drag(); 
+            Drag();
         }
         else
         {
